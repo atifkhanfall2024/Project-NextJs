@@ -19,7 +19,9 @@ export default function RootLayout({
         
       >
         <div className="min-h-screen bg-white">
+          Navbar
           {children}
+          Footer
         </div>
       </body>
     </html>
