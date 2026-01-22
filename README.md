@@ -41,3 +41,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Working of app routing
 - app routing work on file based routing 
 
+## Dynamic routing 
+- dynamic routing is used when we need to access information from url fo r a specific thing
