@@ -43,3 +43,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Dynamic routing 
 - dynamic routing is used when we need to access information from url fo r a specific thing
+
+## parallel Routing 
+- we write it with @ folder name
+
+## Routes Group
+- uses by wrapping the folders inside parenthesis
+- this will indicating the oranization of folders in proper side
+
