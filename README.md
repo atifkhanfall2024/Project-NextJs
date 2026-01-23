@@ -51,3 +51,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - uses by wrapping the folders inside parenthesis
 - this will indicating the oranization of folders in proper side
 
+## server and client component
+- in next js every component is by default server component  , when we using hooks then we simply use use client
+
+
+## Navigation and Routing
+- in react there are two types of routing 
+- declerative => we use <Link href= {route}>
+- programmatic => we use useRouter() hook
+
+## study about image componnents
+## study about fonts
